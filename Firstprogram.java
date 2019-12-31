@@ -1,6 +1,6 @@
 class Firstprogram{
 
 public static void main(String a[]){
-System.out.println("Vinita");
+System.out.println("Vinitas");
 }
 }
