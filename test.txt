@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE65-8479
+
+ Directory of C:\Users\Vinita Sharma\Desktop\Javagit
+
+31/12/2019  11:49 AM    <DIR>          .
+31/12/2019  11:49 AM    <DIR>          ..
+31/12/2019  11:48 AM               424 Firstprogram.class
+31/12/2019  11:29 AM                96 Firstprogram.java
+31/12/2019  11:49 AM                 0 test.txt
+               3 File(s)            520 bytes
+               2 Dir(s)  11,872,567,296 bytes free
